@@ -221,7 +221,7 @@ const App: React.FC = () => {
       <footer className="app-footer">
         <div className="container">
           <p>
-            GrowthPro AI · Local SEO Assistant · Powered by OpenAI GPT-4o-mini
+            GrowthPro AI · Local SEO Assistant · Powered by Groq Llama 3.1
           </p>
         </div>
       </footer>
