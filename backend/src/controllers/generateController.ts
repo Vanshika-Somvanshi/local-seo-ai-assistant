@@ -59,6 +59,7 @@ export async function generateController(
     const isLLMError =
       error.message.includes('LLM') ||
       error.message.includes('OpenAI') ||
+      error.message.includes('Groq') ||
       error.message.includes('JSON');
 
     res.status(500).json({

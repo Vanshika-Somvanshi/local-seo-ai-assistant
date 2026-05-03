@@ -59,7 +59,7 @@ export async function createProject(input: GenerateInput): Promise<IProject> {
 export async function findProjectById(
   projectId: string
 ): Promise<IProject | null> {
-  return Project.findById(projectId).lean();
+  return Project.findById(projectId);
 }
 
 // ─── Output Operations ────────────────────────────────────────────────────────
