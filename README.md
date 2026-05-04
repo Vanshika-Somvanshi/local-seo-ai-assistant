@@ -13,9 +13,9 @@
 
 | Layer | URL |
 |-------|-----|
-| **Frontend** | [https://growthpro-ai.vercel.app](https://growthpro-ai.vercel.app) |
-| **Backend API** | [https://growthpro-ai-backend.onrender.com](https://growthpro-ai-backend.onrender.com) |
-| **Health Check** | [https://growthpro-ai-backend.onrender.com/health](https://growthpro-ai-backend.onrender.com/health) |
+| **Frontend** | [https://local-seo-ai-assistant.vercel.app/](https://local-seo-ai-assistant.vercel.app/) |
+| **Backend API** | [https://local-seo-ai-assistant.onrender.com](https://local-seo-ai-assistant.onrender.com) |
+| **Health Check** | [https://local-seo-ai-assistant.onrender.com/health](https://local-seo-ai-assistant.onrender.com/health) |
 
 > ⚠️ _Replace the above URLs with your actual deployed URLs._
 
@@ -23,7 +23,7 @@
 
 ## 🎥 Demo Video
 
-📹 **[Watch the full demo walkthrough →](PASTE_YOUR_DRIVE_LINK_HERE)**
+📹 **[Watch the full demo walkthrough →](https://drive.google.com/file/d/10mCtic3GiEVJD2IINOqeSd3EygjosXtW/view?usp=sharing)**
 
 _5-minute walkthrough covering: form submission, 3-step AI generation, result cards, copy-to-clipboard, history view, and error handling._
 
